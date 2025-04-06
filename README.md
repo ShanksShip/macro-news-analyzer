@@ -37,7 +37,7 @@ MacroInsight 是一款专业的宏观经济新闻分析工具，利用 DeepSeek 
 
 1. 克隆仓库
 ```
-git clone https://github.com/Theclues/MacroInsight.git
+git clone https://github.com/Theclues/MacroNews_Analyzer.git
 cd MacroInsight
 ```
 
